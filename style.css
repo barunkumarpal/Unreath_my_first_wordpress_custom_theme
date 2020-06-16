@@ -1,0 +1,61 @@
+/*
+Theme Name: Unreath
+Description: Simple One Page Informative Template
+Version: 1.0.0
+Author: Barun
+Text Domain: unreath
+
+
+*/
+
+ul{  
+        padding-left: 0;
+        list-style: none;
+   
+}
+ul li a {
+    text-decoration: none !important;
+}
+
+input.w-90{
+    width: 95%;
+}
+.fa.fa-search{
+    background: red;
+    color: #fff;
+    padding: 5px;
+}
+.paginate-link a{   
+    color: #fff;
+}
+.paginate-link a:hover{ 
+    text-decoration: none;  
+    color: rgb(194, 190, 190);
+}
+
+.footer-suscribe-form input{
+    padding: 25px 0px 25px 20px !important;
+    background: #fff !important;
+}
+
+/* Submenu */
+.site-menu li.menu-item .dropdown-menu div div ul li a{
+    color: #000 !important;
+}
+.site-navigation .site-menu .nav-item .row div a{
+    color: #000 !important;
+}
+.site-navigation .site-menu .nav-item .row div ul li a{
+    color: #000 !important;
+}
+.sticky-wrapper .site-navbar ul li a{
+    color: #000 !important;
+}
+
+.megamenu .dropdown-menu{
+    width: 500px;
+    left: -200% !important;
+}
+
+/* Submenu end */
+
